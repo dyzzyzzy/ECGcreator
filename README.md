@@ -54,13 +54,16 @@ and is **not intended for clinical diagnosis**.
 ## Screenshots
 
 ### Normal Rhythm
-![Normal](screenshots/normal.png)
+![Normal](screenshots/Screenshot_normal.png)
 
 ### Bradycardia
-![Brady](screenshots/brady.png)
+![Brady](screenshots/Screenshot_Bradykardie.png)
 
 ### Tachycardia
-![Tachy](screenshots/tachy.png)
+![Tachy](screenshots/Screenshot_Tachykardie.png)
+
+### Arrhythmia
+![Arrythmia](screenshots/Screenshot_Arrhythmie.png)
 
 ---
 
