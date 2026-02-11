@@ -63,7 +63,7 @@ and is **not intended for clinical diagnosis**.
 ![Tachy](screenshots/Screenshot_Tachykardie.png)
 
 ### Arrhythmia
-![Arrythmia](screenshots/Screenshot_Arrhythmie.png)
+![Arrythmia](screenshots/Screenshot_Arrhythmetisch.png)
 
 ---
 
