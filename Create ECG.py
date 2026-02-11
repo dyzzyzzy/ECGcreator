@@ -1,3 +1,6 @@
+# Please Read README.md before use
+# ------------------------------------------------------------------
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -163,4 +166,5 @@ radio.on_clicked(update_plot)
 
 # initial draw
 update_plot("Normal")
+
 plt.show()
